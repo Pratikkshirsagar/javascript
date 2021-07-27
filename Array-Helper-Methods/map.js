@@ -8,7 +8,7 @@ for (let i = 0; i < numbers.length; i++) {
 
 console.log(doubledNumbers);
 
-// Map
+// Map helper
 
 const doubled = numbers.map((number) => {
   return number * 2;
